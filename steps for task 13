@@ -1,0 +1,8 @@
+After VM Creation:
+
+1. Note down the public IP of said VM.
+2. Ping the VM from Kali Linux and take a screenshot.
+3. SSH into the VM, run `ip a`, and take a screenshot.
+4. Ping the public IP from the VM and take a screenshot.
+5. Explore the VM and shut it down.
+6. Terminate the VM.
